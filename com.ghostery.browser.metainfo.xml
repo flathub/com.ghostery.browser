@@ -14,9 +14,10 @@
   </screenshots>
   <description>
     <p>Blocks ads, trackers &amp; other pop-ups and is fully loaded with a built-in private search engine that detects and displays trackers before you even visit a webpage. </p>
-    <ul><li><em>Built-in Tracker &amp; Ad Blocker</em>: To secure your privacy while browsing the web, the Ghostery Private Browser is neutralizing all trackers for you. Your personal data are detached and replaced by random values leaving data collectors in the dark about your identity.</li>
-    <li><em>Built-in ad free Private Search</em>: Ghostery Private Search offers unbiased results, not by the likelihood you'll click on them. It detects and displays trackers even before you visit a webpage.</li>
-    <li><em>Built-in maximum security</em>: Unparalleled privacy protection can only be achieved on a highest quality platform. Ghostery Private Browser builds upon Firefox with maximum care for speed, privacy and security.</li></ul>
+    <ul><li>Built-in Tracker &amp; Ad Blocker: To secure your privacy while browsing the web, the Ghostery Private Browser is neutralizing all trackers for you. Your personal data are detached and replaced by random values leaving data collectors in the dark about your identity.</li>
+    <li>Built-in ad free Private Search: Ghostery Private Search offers unbiased results, not by the likelihood you'll click on them. It detects and displays trackers even before you visit a webpage.</li>
+    <li>Built-in maximum security: Unparalleled privacy protection can only be achieved on a highest quality platform. Ghostery Private Browser builds upon Firefox with maximum care for speed, privacy and security.</li></ul>
+    <p>This browser is currently only available in english.</p>
   </description>
   <releases>
     <release version="2023.6" date="2023-07-21"/>
