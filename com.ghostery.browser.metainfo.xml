@@ -9,7 +9,7 @@
   <project_license>MPL-2.0</project_license>
   <screenshots>
     <screenshot type="default">
-      <image type="source" width="2364" height="1178">https://www.ghostery.com/assets/ghostery-dawn-compact-e9620f014c3e4ada19cd61a66c2b9d6f52ca261adeb7dccc4792e42d9e336191.png</image>
+      <image type="source" width="2364" height="1178">https://raw.githubusercontent.com/ghostery/ghostery-browser-linux-support/main/flatpak/ghostery-dawn-compact.png</image>
     </screenshot>
   </screenshots>
   <description>
