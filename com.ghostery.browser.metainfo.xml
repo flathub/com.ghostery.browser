@@ -20,8 +20,17 @@
     <p>This browser is currently only available in english.</p>
   </description>
   <releases>
-    <release version="2023.9~pre2" type="development" date="2023-09-13"/>
-    <release version="2023.6" date="2023-07-21"/>
+    <release version="2023.9" date="2023-09-27">
+      <description>
+        <p>Ghostery 10: Next Evolution of Ghostery Tracker &amp; Ad-blocker</p>
+        <ul><li>Complete Rework: Reimagined from the ground up.</li>
+        <li>New Ghostery Panel: Sleek and modern design.</li>
+        <li>Streamlined Controls: Effortless navigation.</li>
+        <li>Full-Page Settings: Comprehensive Ghostery settings page.</li>
+        <li>Enhanced Performance: Lightning-fast page loads.</li></ul>
+        <p>Note: Ghostery Private Browser 2023.9 is powered by Firefox version 117.1.</p>
+      </description>
+    </release>
   </releases>
   <keywords>
     <keyword translate="no">ghostery</keyword>
