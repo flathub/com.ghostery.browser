@@ -4,7 +4,7 @@ Current manifest is largely inspired by the one from [Librewolf community](https
 
 To upgrade the manifest to any new release, please use the script available in the [Ghostery Private Browser Linux support](https://github.com/ghostery/ghostery-browser-linux-support) repository.
 
-The current repository should be used to report any issue related to the packaging of the Ghostery Private Browser.
+The current repository should be used to report any issue only related to the **flatpak packaging** of the Ghostery Private Browser. If you want to report a technical issue of the browser itself, please report it in [its own repository](https://github.com/ghostery/user-agent-desktop). If your issue is about the usage of the browser, please report it [with our dedicated support form](https://www.ghostery.com/support).
 
 ---
 
