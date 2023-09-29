@@ -9,7 +9,7 @@
   <project_license>MPL-2.0</project_license>
   <screenshots>
     <screenshot type="default">
-      <image type="source" width="2364" height="1178">https://www.ghostery.com/assets/ghostery-dawn-compact-e9620f014c3e4ada19cd61a66c2b9d6f52ca261adeb7dccc4792e42d9e336191.png</image>
+      <image type="source" width="2364" height="1178">https://raw.githubusercontent.com/ghostery/ghostery-browser-linux-support/main/flatpak/ghostery-dawn-compact.png</image>
     </screenshot>
   </screenshots>
   <description>
@@ -20,7 +20,17 @@
     <p>This browser is currently only available in english.</p>
   </description>
   <releases>
-    <release version="2023.6" date="2023-07-21"/>
+    <release version="2023.9" date="2023-09-27">
+      <description>
+        <p>Ghostery 10: Next Evolution of Ghostery Tracker &amp; Ad-blocker</p>
+        <ul><li>Complete Rework: Reimagined from the ground up.</li>
+        <li>New Ghostery Panel: Sleek and modern design.</li>
+        <li>Streamlined Controls: Effortless navigation.</li>
+        <li>Full-Page Settings: Comprehensive Ghostery settings page.</li>
+        <li>Enhanced Performance: Lightning-fast page loads.</li></ul>
+        <p>Note: Ghostery Private Browser 2023.9 is powered by Firefox version 117.1.</p>
+      </description>
+    </release>
   </releases>
   <keywords>
     <keyword translate="no">ghostery</keyword>
