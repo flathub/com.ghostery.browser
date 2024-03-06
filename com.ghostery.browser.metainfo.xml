@@ -20,6 +20,15 @@
     <p>This browser is currently only available in english.</p>
   </description>
   <releases>
+    <release version="2024.03" date="2024-03-06">
+      <description>
+        <ul>
+          <li>Fix German and French language version that broke in 2024-02</li>
+          <li>Merge with Firefox 123</li>
+          <li>Update of Ghostery extension to version 10.2.13</li>
+        </ul>
+      </description>
+    </release>
     <release version="2024.02" date="2024-03-01">
       <description>
         <ul>
