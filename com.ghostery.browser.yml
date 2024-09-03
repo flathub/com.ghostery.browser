@@ -85,8 +85,8 @@ modules:
   - install -d /app/lib/ffmpeg
   sources:
   - type: archive
-    url: https://github.com/ghostery/user-agent-desktop/releases/download/2024-08-09/Ghostery-2024.8.en-US.linux.tar.gz
-    sha256: c12f2c80857a2cd7ca46527f7d7a681d8e125f3f1fed5fc006bfa3ea54870fd8
+    url: https://github.com/ghostery/user-agent-desktop/releases/download/2024-08-30/Ghostery-2024.8.1.en-US.linux.tar.gz
+    sha256: 92f8b2d2a969efa8780436e07c45c1eb07229a5bc7cb0cfa3e4c9eb66dd19399
     dest: ghostery_app
     strip-components: 0
   - type: file
