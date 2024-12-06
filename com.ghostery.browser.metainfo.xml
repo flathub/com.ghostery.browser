@@ -4,7 +4,7 @@
   <launchable type="desktop-id">com.ghostery.browser.desktop</launchable>
   <name>Ghostery Private Browser</name>
   <developer_name>Ghostery GmbH.</developer_name>
-  <summary>A completely private browsing experience from Ghostery</summary>
+  <summary>Ghostery Private Browser is no longer supported. Please switch to an alternative browser for continued security updates.</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>MPL-2.0</project_license>
   <screenshots>
@@ -13,6 +13,8 @@
     </screenshot>
   </screenshots>
   <description>
+    <p>WARNING: The Ghostery Private Browser has reached its end of life and will no longer receive security updates. It is strongly recommended to switch to a safe alternative like Firefox.</p>
+    <p>For more information, see the blog post: https://www.ghostery.com/blog/ghostery-private-browser-discontinued</p>
     <p>Blocks ads, trackers &amp; other pop-ups and is fully loaded with a built-in private search engine that detects and displays trackers before you even visit a webpage. </p>
     <ul><li>Built-in Tracker &amp; Ad Blocker: To secure your privacy while browsing the web, the Ghostery Private Browser is neutralizing all trackers for you. Your personal data are detached and replaced by random values leaving data collectors in the dark about your identity.</li>
     <li>Built-in ad free Private Search: Ghostery Private Search offers unbiased results, not by the likelihood you'll click on them. It detects and displays trackers even before you visit a webpage.</li>
