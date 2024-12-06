@@ -1,5 +1,13 @@
 # Ghostery Private Browser
 
+:warning: **The project is no longer maintained**
+
+The Ghostery Private Browser has reached its end of life and will no longer receive security updates. It is strongly recommended to switch to a safe alternative like Firefox.
+
+For more information, see the blog post: <a href="https://www.ghostery.com/blog/ghostery-private-browser-discontinued">Sunsetting the Ghostery Private Browser</a>.
+
+---
+
 Current manifest is largely inspired by the one from
 [Librewolf community](https://gitlab.com/librewolf-community/browser/flatpak/).
 
